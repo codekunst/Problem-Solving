@@ -1,0 +1,11 @@
+**/bin/
+*.class
+
+.metadata/
+.project
+.classpath
+.settings/
+
+*.tmp
+*.bak
+*.swp
